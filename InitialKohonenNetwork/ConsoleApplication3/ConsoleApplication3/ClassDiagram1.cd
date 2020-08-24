@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="Initial.KohonenNetwork.CometitiveLayer">
+    <Position X="4.25" Y="0.5" Width="3.75" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAIAAIAAAA=</HashCode>
+      <FileName>InitialKohonenNetwork\CometitiveLayer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Initial.KohonenNetwork.CometitiveNode">
+    <Position X="9" Y="0.5" Width="2.5" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAAAAAAAACAIAgAAAAAAAAAAAAAAAAAAAAI=</HashCode>
+      <FileName>InitialKohonenNetwork\CometitiveNode.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Initial.KohonenNetwork.InitialKohonenNetwork">
+    <Position X="0.5" Y="1.75" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>AQAAAIACAAAAAAAAAACAIAABAAAAQAAAAACIgCABEAA=</HashCode>
+      <FileName>InitialKohonenNetwork\InitialKohonenNetwork.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Initial.KohonenNetwork.InputLayer">
+    <Position X="4.25" Y="3.5" Width="3.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>InitialKohonenNetwork\InputLayer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Initial.KohonenNetwork.InputNode">
+    <Position X="9" Y="3.5" Width="3.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAIAAAAEAAAAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>InitialKohonenNetwork\InputNode.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
