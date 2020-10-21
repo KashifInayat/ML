@@ -1,3 +1,8 @@
+
+This is the project of deeplearning course, we tried lsq and nips 2019 paper quantization technique in different ways.
+
+
+
 +----+-------+--------------------------------------------------------------------+---------------------------+--------+
 | #  | Model | Hyperparameters                                                    | Note                      | Acc@1  |
 +----+-------+--------------------------------------------------------------------+---------------------------+--------+
